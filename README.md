@@ -20,4 +20,4 @@ Test data is utilized for predictions. We visualize a sample image from the inpu
 
 ## Results 📈
 After inputting and visualizing an image from the dataset, our model predicts a healthiness rating of 4.0 for the dish on a scale of 1-5.
-
+ 
